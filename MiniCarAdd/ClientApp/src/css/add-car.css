@@ -1,0 +1,31 @@
+﻿.display-grid {
+    display: grid;
+}
+
+.header-style {
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.button-style {
+    justify-self: center;
+    width: 60px;
+}
+
+.error {
+    text-align: center;
+    color: red;
+}
+
+.success {
+    text-align: center;
+    color: green;
+}
+
+.car-panel {
+    margin-top: 50px;
+}
+
+.car-panel .container .row .col-2 {
+    border: 1px solid #37598b;
+}

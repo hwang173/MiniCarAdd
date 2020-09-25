@@ -1,0 +1,9 @@
+﻿.show>.dropdown-menu {
+  display: block;
+  position: absolute;
+}
+
+.disabled {
+    color: lightgray;
+    cursor: not-allowed;
+}
